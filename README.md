@@ -72,10 +72,7 @@ It's like tweaking the amount of sugar or changing the baking time to minimize t
 
 ```
 .
-├── data/
-│   └── (Your dataset files go here)
-├── neural_network.py   # The core class for the Neural Network
-├── main.py             # Script to load data, train the network, and make predictions
+├── NeuralNettworkFromScratch.ipynb   # The core class for the Neural Network & everythingis in the notebook
 └── README.md           # You are here!
 ```
 
