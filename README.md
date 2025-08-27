@@ -86,8 +86,8 @@ It's like tweaking the amount of sugar or changing the baking time to minimize t
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/dhairya-pandya/NeuralNets_FromScratch.git
-    cd your-repo-name
+    git clone https://github.com/dhairya-pandya/NeuralNetsfromScratch.git
+    cd NeuralNetsfromScratch
     ```
 
 2.  **Install dependencies** (this project likely only needs `numpy`):
